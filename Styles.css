@@ -1,0 +1,26 @@
+body {
+background-color: #208dcc;
+text-align: center;
+color: rgb(60, 60, 59);
+font-family: Calibri;
+}
+
+#Buttons{
+    text-align: center;
+    background-color: #89c82e;
+    border-collapse: separate;
+    border: 3px solid rgb(60, 60, 59);
+    border-width: 5px;
+    border-radius: 25px 25px 25px 25px;
+    border-style: solid;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#Buttons input{
+    background-color: #ffffff;
+}
+
+#Buttons button{
+    background-color: rgb(231, 0, 100);
+}
